@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Khalil FAROUQI</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
+- 📫 How to reach me **bio.khalil.f@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bio_khalil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bio_khalil" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/khalil.farouqi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/khalil.farouqi/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/farouqi_khalil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/farouqi_khalil/" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/KNJ84HSD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/KNJ84HSD" height="30" width="40" /></a>
+<a href="https://fb.com/khalil.farouqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khalil.farouqi" height="30" width="40" /></a>
+<a href="https://instagram.com/farouqi_khalil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farouqi_khalil" height="30" width="40" /></a>
+<a href="https://discord.gg/KNJ84HSD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KNJ84HSD" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
